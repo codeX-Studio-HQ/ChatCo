@@ -21,6 +21,6 @@ Made With ❤️ by **codeX** Studio
 ## ⚖️ License
 
 This project is licensed under the **CC BY-NC-ND 4.0** License. 
-See the [LICENSE](https://github.com/codeX-Studio-HQ/MoodTap?tab=License-1-ov-file) file for the full legal text.
+See the [LICENSE](https://github.com/codeX-Studio-HQ/ChatCo?tab=License-1-ov-file) file for the full legal text.
 
 © 2026 codeX Studio
