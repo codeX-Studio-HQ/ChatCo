@@ -1,4 +1,4 @@
-<img src="art/ChatCo_2.png" width="300" alt="ChatCoLogo">
+<img src="art/ChatCo_2.png" width="400" alt="ChatCoLogo">
 
 # ChatCo (Beta v1.0)
 Made With ❤️ by **codeX** Studio
