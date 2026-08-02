@@ -13,7 +13,7 @@ Made With ❤️ by **Phantomware**
 
 # Phantomware Official Website
 
-> **Official Website:** [https://codex-studio-hq.netlify.app/](https://codex-studio-hq.netlify.app/)
+> **Official Website:** [https://phantomware.netlify.app/](https://phantomware.netlify.app/)
 
 ---
 
