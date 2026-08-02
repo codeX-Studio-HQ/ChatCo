@@ -6,7 +6,7 @@
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
-Copyright (c) 2026 codeX Studio
+Copyright (c) 2026 Phantomware
 
 Under this license, you are free to share the material under the following terms:
 
