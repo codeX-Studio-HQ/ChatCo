@@ -9,7 +9,7 @@ Made With ❤️ by **Phantomware**
 
 ---
 
-![codeX Logo](art/favicon.ico)
+![Phantomware Logo](./art/Phantomware_TP_Logo.png)
 
 # Phantomware Official Website
 
