@@ -3,8 +3,7 @@
 # ChatCo (Beta v1.0)
 Made With ❤️ by **Phantomware**
 > **Developer:** Baddeaw  
-> **Discord:** baddeaw  
-> **Version:** v1.0  
+> **Version:** Beta v1.0  
 > **Download APK:** [ChatCo-Beta-v1.0.apk](https://github.com/codeX-Studio-HQ/ChatCo/releases/download/v1.0/ChatCo-Beta-v1.0.apk)
 
 ---
